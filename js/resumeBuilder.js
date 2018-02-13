@@ -9,7 +9,7 @@ var bio = {
         twitter:"sheruaravindreddy@twitter.com",
         email: "sheru.reddy@iitgn.ac.in",
         git: "https://github.com/sheruaravindreddy",
-        location: "Ahmedabad"
+        location: "Gandhinagar"
     }
 }
 var work = {
